@@ -115,3 +115,5 @@ Requires `GROQ_API_KEY` and `GEMINI_API_KEY` environment variables (or Colab sec
 - Add a third, independent judge to strengthen the cross-validation design
 - Track cost/latency per API call alongside quality scores
 - Expand the test set beyond ML/AI topics to check generalization
+
+<img src="persona_comparison.png" alt="Study Assistant Persona Comparison" width="600">
